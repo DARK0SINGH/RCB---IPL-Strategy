@@ -1,4 +1,4 @@
--- RCB IPL Auction Strategy Project - A Raja Vishwanath
+-- RCB IPL Auction Strategy Project - Abhishek kumar
 
 
 -- //////////////////////////////////// OBJECTIVE QUESTIONS ///////////////////////////////////
